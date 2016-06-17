@@ -19,12 +19,7 @@ C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86
 C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmTeacherReport.resources
 C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.Properties.Resources.resources
 C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\shahar.csproj.GenerateResource.Cache
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\noam.exe.config
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.exe
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.pdb
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\netunim\data.accdb
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\noam.exe
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\noam.pdb
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\shahar.csprojResolveAssemblyReference.cache
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.frmCreateLesson.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.frmCanTeachProject.resources
@@ -38,5 +33,10 @@ C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.frmStudentReport.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.frmStudents.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.frmTeacherReport.resources
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\noam.Properties.Resources.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\shahar.csproj.GenerateResource.Cache
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\Private Lessons Management 1.0.0.exe.config
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\Private Lessons Management 1.0.0.exe
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Debug\Private Lessons Management 1.0.0.pdb
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\shahar.Properties.Resources.resources
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\Private Lessons Management 1.0.0.exe
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Debug\Private Lessons Management 1.0.0.pdb

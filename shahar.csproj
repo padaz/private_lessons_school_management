@@ -8,8 +8,8 @@
     <ProjectGuid>{E79D868A-F9E8-4D05-8C38-D00C630BEC88}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>noam</RootNamespace>
-    <AssemblyName>noam</AssemblyName>
+    <RootNamespace>shahar</RootNamespace>
+    <AssemblyName>Private Lessons Management 1.0.0</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>

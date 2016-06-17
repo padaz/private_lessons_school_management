@@ -1,9 +1,4 @@
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\noam.exe.config
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.exe
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.pdb
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\netunim\data.accdb
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\noam.exe
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\noam.pdb
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.frmCreateLesson.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.frmCanTeachProject.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.frmDeleteLesson.resources
@@ -16,5 +11,11 @@ C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.frmStudentReport.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.frmStudents.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.frmTeacherReport.resources
-C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\noam.Properties.Resources.resources
 C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\shahar.csproj.GenerateResource.Cache
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\shahar.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\Private Lessons Management 1.0.0.exe.config
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\Private Lessons Management 1.0.0.exe
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\bin\Release\Private Lessons Management 1.0.0.pdb
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\shahar.Properties.Resources.resources
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\Private Lessons Management 1.0.0.exe
+C:\Users\shaha\Desktop\School_Project\private_lessons_school_management\obj\x86\Release\Private Lessons Management 1.0.0.pdb

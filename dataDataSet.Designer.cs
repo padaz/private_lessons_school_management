@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace noam {
+namespace shahar {
     
     
     /// <summary>
@@ -6465,7 +6465,7 @@ namespace noam {
         }
     }
 }
-namespace noam.dataDataSetTableAdapters {
+namespace shahar.dataDataSetTableAdapters {
     
     
     /// <summary>
@@ -6620,7 +6620,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -6931,7 +6931,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -7261,7 +7261,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -7587,7 +7587,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -7899,7 +7899,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -8211,7 +8211,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -8523,7 +8523,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -8855,7 +8855,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -9294,7 +9294,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -9752,7 +9752,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -10079,7 +10079,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -10401,7 +10401,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -10710,7 +10710,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -11008,7 +11008,7 @@ namespace noam.dataDataSetTableAdapters {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.OleDb.OleDbConnection();
-            this._connection.ConnectionString = global::noam.Properties.Settings.Default.dataConnectionString;
+            this._connection.ConnectionString = global::shahar.Properties.Settings.Default.dataConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
