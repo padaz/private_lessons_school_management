@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E79D868A-F9E8-4D05-8C38-D00C630BEC88}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>noam</RootNamespace>
+    <AssemblyName>noam</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BigForm.cs" />
+    <Compile Include="CanTeachProject.cs" />
+    <Compile Include="common_utilities.cs" />
+    <Compile Include="dataDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSherut.cs" />
+    <Compile Include="frmDeleteLesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteLesson.Designer.cs">
+      <DependentUpon>frmDeleteLesson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreateLesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreateLesson.Designer.cs">
+      <DependentUpon>frmCreateLesson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCanTeachProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCanTeachProject.Designer.cs">
+      <DependentUpon>frmCanTeachProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKita.Designer.cs">
+      <DependentUpon>frmKita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLevelsProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLevelsProject.Designer.cs">
+      <DependentUpon>frmLevelsProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMikProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMikProject.Designer.cs">
+      <DependentUpon>frmMikProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMorimProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMorimProject.Designer.cs">
+      <DependentUpon>frmMorimProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPanuiProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPanuiProject.Designer.cs">
+      <DependentUpon>frmPanuiProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentReport.Designer.cs">
+      <DependentUpon>frmStudentReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudents.Designer.cs">
+      <DependentUpon>frmStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kita.cs" />
+    <Compile Include="Lessons.cs" />
+    <Compile Include="levels.cs" />
+    <Compile Include="MikP.cs" />
+    <Compile Include="MorimProject.cs" />
+    <Compile Include="PanuiProject.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="frmTeacherReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeacherReport.Designer.cs">
+      <DependentUpon>frmTeacherReport.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmCreateLesson.resx">
+      <DependentUpon>frmCreateLesson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCanTeachProject.resx">
+      <DependentUpon>frmCanTeachProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteLesson.resx">
+      <DependentUpon>frmDeleteLesson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKita.resx">
+      <DependentUpon>frmKita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLevelsProject.resx">
+      <DependentUpon>frmLevelsProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMikProject.resx">
+      <DependentUpon>frmMikProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMorimProject.resx">
+      <DependentUpon>frmMorimProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPanuiProject.resx">
+      <DependentUpon>frmPanuiProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentReport.resx">
+      <DependentUpon>frmStudentReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudents.resx">
+      <DependentUpon>frmStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacherReport.resx">
+      <DependentUpon>frmTeacherReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="dataDataSet.xsc">
+      <DependentUpon>dataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dataDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dataDataSet.xss">
+      <DependentUpon>dataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MainClassDiagram.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="netunim\data.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

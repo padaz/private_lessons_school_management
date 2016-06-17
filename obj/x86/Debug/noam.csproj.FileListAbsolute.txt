@@ -1,0 +1,699 @@
+C:\מערכות מנהלתיות\noam\noam\obj\x86\Debug\noam.Form1.resources
+C:\מערכות מנהלתיות\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\מערכות מנהלתיות\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\מערכות מנהלתיות\noam\noam\bin\Debug\noam.exe
+C:\מערכות מנהלתיות\noam\noam\bin\Debug\noam.pdb
+C:\מערכות מנהלתיות\noam\noam\obj\x86\Debug\noam.exe
+C:\מערכות מנהלתיות\noam\noam\obj\x86\Debug\noam.pdb
+C:\מערכות מנהלתיות\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\Tirgul\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\Tirgul\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\Tirgul\noam\noam\bin\Debug\noam.pdb
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+D:\CSharpWin\Tirgul\noam\noam\obj\x86\Debug\noam.frmSubjects.resources
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\Tirgul\tr1\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\Tirgul\tr1\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\Tirgul\tr1\noam\noam\bin\Debug\noam.pdb
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.frmSubjects.resources
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharpWin\Tirgul\tr1\noam\noam\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.exe
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.pdb
+E:\Tirgul\tr1\noam\noam\bin\Debug\netunim\data.accdb
+E:\Tirgul\tr1\noam\noam\bin\Debug\noam.exe
+E:\Tirgul\tr1\noam\noam\bin\Debug\noam.pdb
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.frmSubjects.resources
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.FormMikStu.resources
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+E:\Tirgul\tr1\noam\noam\obj\x86\Debug\noam.FormMenue.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\TirgulA\tr1\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\TirgulA\tr1\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\TirgulA\tr1\noam\noam\bin\Debug\noam.pdb
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+D:\CSharpWin\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.exe
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\TirgulA\tr1\noam\noam\bin\Debug\netunim\data.accdb
+C:\TirgulA\tr1\noam\noam\bin\Debug\noam.exe
+C:\TirgulA\tr1\noam\noam\bin\Debug\noam.pdb
+C:\TirgulA\tr1\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\TirgulB\tr1\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\TirgulB\tr1\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\TirgulB\tr1\noam\noam\bin\Debug\noam.pdb
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharpWin\TirgulB\tr1\noam\noam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayon.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+D:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayon.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Charp\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayon.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\CSharpWin\TirgulB\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+C:\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+C:\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+C:\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayon.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\Noam\SkyDrive\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayonot.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs2.resources
+C:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmKesher.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmKesher.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayonot.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs2.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Noam Weinberg\Downloads\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\ProgectNisayon\noam\noam\bin\Debug\noam.pdb
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmGradeKind.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmKesher.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMarechet.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMenue.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.FrmMikStu.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmMikzot.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmNisayonot.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmShaot.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmStudent.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.frmTabs2.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\ProgectNisayon\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+D:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.exe
+D:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.pdb
+D:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+D:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+D:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+D:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmStudents.resources
+D:\CSharpWin\ProgectSchool\noam\noam\bin\Debug\netunim\data.accdb
+D:\CSharpWin\ProgectSchool\noam\noam\bin\Debug\noam.exe
+D:\CSharpWin\ProgectSchool\noam\noam\bin\Debug\noam.pdb
+C:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.exe
+C:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.pdb
+C:\CSharpWin\ProgectSchool\noam\noam\bin\Debug\netunim\data.accdb
+C:\CSharpWin\ProgectSchool\noam\noam\bin\Debug\noam.exe
+C:\CSharpWin\ProgectSchool\noam\noam\bin\Debug\noam.pdb
+C:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\CSharpWin\ProgectSchool\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.exe
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.pdb
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\bin\Debug\netunim\data.accdb
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\bin\Debug\noam.exe
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\bin\Debug\noam.pdb
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmStudents.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmTirgul.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmMik.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmTestKind.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.FrmMorim.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.FrmKidomot.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmRoomMik.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+K:\Noam\Ya\maya\ProgectSchool\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.exe
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.pdb
+K:\Noam\Ya\maya\noam\noam\bin\Debug\netunim\data.accdb
+K:\Noam\Ya\maya\noam\noam\bin\Debug\noam.exe
+K:\Noam\Ya\maya\noam\noam\bin\Debug\noam.pdb
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.FrmKidomot.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmMik.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.FrmMorim.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmRoomMik.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmStudents.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmTestKind.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.frmTirgul.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+K:\Noam\Ya\maya\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.exe
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.pdb
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.FrmKidomot.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmMik.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.FrmMorim.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmRoomMik.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmStudents.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmTestKind.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.frmTirgul.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+K:\Noam\Ya\ניב מכליס\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+K:\Noam\Ya\ניב מכליס\noam\noam\bin\Debug\netunim\data.accdb
+K:\Noam\Ya\ניב מכליס\noam\noam\bin\Debug\noam.exe
+K:\Noam\Ya\ניב מכליס\noam\noam\bin\Debug\noam.pdb
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.exe
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.pdb
+K:\Noam\Ya\שחר זליג\noam\noam\bin\Debug\netunim\data.accdb
+K:\Noam\Ya\שחר זליג\noam\noam\bin\Debug\noam.exe
+K:\Noam\Ya\שחר זליג\noam\noam\bin\Debug\noam.pdb
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.FrmKidomot.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmMik.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.FrmMorim.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmPanui.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmRoomMik.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmStudents.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmTabs.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmTestKind.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmTirgul.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.Properties.Resources.resources
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+K:\Noam\Ya\שחר זליג\noam\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\ShaharZelig\Google Drive\noam\noam\obj\x86\Debug\noam.exe
+C:\Users\ShaharZelig\Google Drive\noam\noam\obj\x86\Debug\noam.pdb
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.exe
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.pdb
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+K:\Noam\Yb\שחר זליג\noam\bin\Debug\netunim\data.accdb
+K:\Noam\Yb\שחר זליג\noam\bin\Debug\noam.exe
+K:\Noam\Yb\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+K:\Noam\Yb\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.exe
+E:\שחר זליג\noam\obj\x86\Debug\noam.pdb
+E:\שחר זליג\noam\bin\Debug\netunim\data.accdb
+E:\שחר זליג\noam\bin\Debug\noam.exe
+E:\שחר זליג\noam\bin\Debug\noam.pdb
+E:\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+E:\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+E:\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shahar\Desktop\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\shahar\Desktop\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\shahar\Desktop\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shahar\Desktop\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\shahar\Desktop\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\User.PMETRO\Desktop\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shaha\Google Drive\Programming\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\User.PMETRO\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+F:\Programming\שחר זליג\noam\bin\Debug\netunim\data.accdb
+F:\Programming\שחר זליג\noam\bin\Debug\noam.exe.config
+F:\Programming\שחר זליג\noam\bin\Debug\noam.exe
+F:\Programming\שחר זליג\noam\bin\Debug\noam.pdb
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmCanTeach.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmKidomot.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMik.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmMorim.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanui.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMik.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmRoomMikzoa.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTabs.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTestKind.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.frmTirgul.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.FrmTirgulNosef2.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.exe
+F:\Programming\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Desktop\Programming\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\shaha\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\User.PMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\user.NMETRO\Desktop\שחר זליג\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmBigForm.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\user.NMETRO\Desktop\New folder (4)\שחר זליג\noam\obj\x86\Debug\noam.frmTeacherReport.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmStudentReport.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmTeacherReport.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmStudentReport.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmTeacherReport.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\shaha\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmCreateLesson.resources
+C:\Users\user.NMETRO\Desktop\shahars project\שחר זליג\noam\obj\x86\Debug\noam.frmCreateLesson.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\bin\Debug\noam.exe.config
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.exe
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\bin\Debug\netunim\data.accdb
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\bin\Debug\noam.exe
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\bin\Debug\noam.pdb
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmCreateLesson.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmStudentReport.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.frmTeacherReport.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shaha\Desktop\shahars project1\שחר זליג\noam\obj\x86\Debug\noam.csproj.GenerateResource.Cache
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\bin\Debug\noam.exe.config
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.exe
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.pdb
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\bin\Debug\netunim\data.accdb
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\bin\Debug\noam.exe
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\bin\Debug\noam.pdb
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.csprojResolveAssemblyReference.cache
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmCreateLesson.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmCanTeachProject.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmDeleteLesson.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmKita.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmLevelsProject.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmMenu.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmMikProject.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmMorimProject.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmPanuiProject.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmStudentReport.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmStudents.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.frmTeacherReport.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.Properties.Resources.resources
+C:\Users\shaha\Desktop\School_Project\ShaharZelig\private_lessons_school\obj\x86\Debug\noam.csproj.GenerateResource.Cache
