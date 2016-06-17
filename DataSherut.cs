@@ -17,9 +17,7 @@ namespace noam
         
         private static string ConnectionString()
         {
-            string path = System.IO.Directory.GetCurrentDirectory();
-            int x = path.IndexOf("\\bin");
-            path = path.Substring(0, x) + "\\netunim\\data.accdb";
+            string path = System.IO.Directory.GetCurrentDirectory() + "\\netunim\\data.accdb";
             return string.Format(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source='{0}';Persist Security Info=True", path);
         }
         // החזרת ערך בודד 
