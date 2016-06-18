@@ -1,6 +1,5 @@
 using System;
 using System.Data;
-//using System.Data.SqlClient;
 using System.Data.OleDb;
 using System.Configuration;
 using System.Windows.Forms;
@@ -20,7 +19,7 @@ namespace noam
             string path = System.IO.Directory.GetCurrentDirectory() + "\\netunim\\data.accdb";
             return string.Format(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source='{0}';Persist Security Info=True", path);
         }
-        // äçæøú òøê áåãã 
+        // Ã¤Ã§Ã¦Ã¸Ãº Ã²Ã¸Ãª Ã¡Ã¥Ã£Ã£ 
         public static Object ExecuteScalar(string strSql)
         {
             String connectionString = ConnectionString();
@@ -31,7 +30,7 @@ namespace noam
             connection.Close();
             return obj;
         }
-        // îçæéø òåú÷ ùì èáìä øöåéä
+        // Ã®Ã§Ã¦Ã©Ã¸ Ã²Ã¥ÃºÃ· Ã¹Ã¬ Ã¨Ã¡Ã¬Ã¤ Ã¸Ã¶Ã¥Ã©Ã¤
         public static DataSet GetDataSet(string strSql)
         {
             DataSet ds = new DataSet();
